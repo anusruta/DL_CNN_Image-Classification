@@ -1,0 +1,2 @@
+# DL_CNN_Image-Classification
+Design, implement, and optimize a Convolutional Neural Network (CNN) using PyTorch or Keras to classify images from the CIFAR-10 dataset. You will explore various CNN architectures, regularization techniques, and data augmentation strategies to achieve high classification accuracy. This assignment emphasizes practical deep learning skills and understanding of CNN components.
